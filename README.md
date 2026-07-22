@@ -20,16 +20,16 @@ Honours Commerce (Information Systems) student at McMaster University with an in
 
 Below are some of the projects I've built to strengthen my SQL, business intelligence, and analytics skills.
 
-### 🚗 Auto Insurance Risk Data Warehouse
+### 🚗 [Auto Insurance Risk Data Warehouse](https://github.com/muaazw7/auto-insurance-risk-data-warehouse)
 Designed a star schema data warehouse for insurance reporting, dimensional modeling, ETL workflows, and business intelligence.
 
-### 🛒 Retail Inventory & Sales SQL Database
+### 🛒 [Retail Inventory & Sales SQL Database](https://github.com/muaazw7/retail-inventory-sales-sql-database)
 Designed a normalized SQL Server database with ER modeling and complex SQL queries for inventory and sales reporting.
 
-### 📈 COVID-19 Global Analytics Dashboard
+### 📈 [COVID-19 Global Analytics Dashboard](https://github.com/muaazw7/covid-19-global-analytics-dashboard)
 Built an interactive Tableau dashboard analyzing global COVID-19 trends using maps, KPIs, and time-series visualizations.
 
-### 📉 Consumer Behavior Predictive Analytics
+### 📉 [Consumer Behavior Predictive Analytics](https://github.com/muaazw7/consumer-behavior-predictive-analytics-jmp)
 Applied clustering, regression, and decision tree modeling in JMP to analyze consumer purchasing behavior.
 
 ## Connect With Me
