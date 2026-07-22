@@ -1,37 +1,63 @@
 # Hi, I'm Muaaz Warraich 👋
 
-Honours Commerce (Information Systems) student at McMaster University with an interest in Business Analytics, Business Intelligence, SQL, Power BI, and Data Visualization.
+Information Systems student at McMaster University with experience in SQL, Power BI, Tableau, database design, business intelligence, and operational analytics. Passionate about transforming business requirements into data-driven solutions that improve reporting and decision-making.
 
 ## About Me
 
 - 🎓 Honours Bachelor of Commerce (Information Systems), McMaster University
-- 📍 Mississauga, Ontario, Canada
-- 💼 Interested in Business Analyst, Business Systems Analyst, Business Intelligence, and Revenue Operations roles
-- 🌱 Continuously building projects in SQL, Power BI, Tableau, and data analytics
+- 📍 Mississauga, Ontario
+- 📊 Interested in Business Intelligence, Business Analysis, Data Analytics, and Information Systems
+- 🌱 Currently expanding my skills in SQL, Power BI, Tableau, and Data Warehousing
+- 💼 Seeking internship and new graduate opportunities in Information Systems and Business Analytics
 
 ## Technical Skills
 
-- **Databases:** SQL, SQL Server (SSMS), Data Warehousing, ETL, ER Modeling
-- **Business Intelligence:** Power BI, Tableau, Microsoft Excel (PivotTables, Power Query, VBA), JMP
-- **Business Analysis:** Requirements Gathering, Process Mapping, Workflow Optimization
-- **Business Systems:** Salesforce, HubSpot, Pipedrive, Lone Wolf, DocuSign, Jira, Confluence
+### Programming & Query Languages
+- SQL
+
+### Data Analytics & Business Intelligence
+- Power BI
+- Tableau
+- JMP
+- Microsoft Excel
+
+### Database Technologies
+- Microsoft SQL Server (SSMS)
+- Database Design
+- Relational Databases
+- Data Warehousing
+- Star Schema Modeling
+
+### Business Systems
+- Salesforce CRM
+- HubSpot CRM
+- Pipedrive CRM
+- DocuSign
+- Lone Wolf Technologies
+
+### Other Tools
+- Git
+- GitHub
+- Microsoft Office
 
 ## Featured Projects
 
-Below are some of the projects I've built to strengthen my SQL, business intelligence, and analytics skills.
+### 📦 [Retail Inventory & Sales SQL Database](https://github.com/YOUR_USERNAME/retail-inventory-sales-sql-database)
 
-### 🚗 [Auto Insurance Risk Data Warehouse](https://github.com/muaazw7/auto-insurance-risk-data-warehouse)
-Designed a star schema data warehouse for insurance reporting, dimensional modeling, ETL workflows, and business intelligence.
+Relational SQL database supporting inventory management, sales reporting, order processing, and operational reporting.
 
-### 🛒 [Retail Inventory & Sales SQL Database](https://github.com/muaazw7/retail-inventory-sales-sql-database)
-Designed a normalized SQL Server database with ER modeling and complex SQL queries for inventory and sales reporting.
+### 🚗 [Auto Insurance Risk Data Warehouse](https://github.com/YOUR_USERNAME/auto-insurance-risk-data-warehouse)
 
-### 📈 [COVID-19 Global Analytics Dashboard](https://github.com/muaazw7/covid-19-global-analytics-dashboard)
-Built an interactive Tableau dashboard analyzing global COVID-19 trends using maps, KPIs, and time-series visualizations.
+Dimensional data warehouse designed using star schema modeling for insurance risk analysis and business intelligence reporting.
 
-### 📉 [Consumer Behavior Predictive Analytics](https://github.com/muaazw7/consumer-behavior-predictive-analytics-jmp)
-Applied clustering, regression, and decision tree modeling in JMP to analyze consumer purchasing behavior.
+### 📈 [COVID-19 Global Analytics Dashboard](https://github.com/YOUR_USERNAME/covid-19-global-analytics-dashboard)
+
+Interactive Tableau dashboards visualizing global COVID-19 trends, KPIs, and geographic analysis.
+
+### 🧠 [Consumer Behavior Predictive Analytics](https://github.com/YOUR_USERNAME/consumer-behavior-predictive-analytics)
+
+Predictive analytics project using JMP featuring regression analysis, decision trees, K-Means clustering, and customer segmentation.
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/muaaz-warraich
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
