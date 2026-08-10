@@ -74,6 +74,6 @@ Dimensional data warehouse design project using star schema modeling, fact and d
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/muaaz-warraich
-- GitHub: https://github.com/muaazw7
-- Email: muaazw7@gmail.com
+- LinkedIn: [linkedin.com/in/muaaz-warraich](https://www.linkedin.com/in/muaaz-warraich)
+- GitHub: [github.com/muaazw7](https://github.com/muaazw7)
+- Email: [muaazw7@gmail.com](mailto:muaazw7@gmail.com)
