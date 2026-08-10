@@ -1,39 +1,57 @@
 # Hi, I'm Muaaz Warraich 👋
 
-Information Systems student at McMaster University with experience in SQL, Power BI, Tableau, database design, business intelligence, and operational analytics. Passionate about transforming business requirements into data-driven solutions that improve reporting and decision-making.
+Information Systems student at McMaster University with experience in business analysis, SQL databases, Power BI reporting, CRM systems, data analytics, and process improvement. Interested in translating business requirements and operational data into practical system, reporting, and process solutions.
 
 ## About Me
 
-- 🎓 Honours Bachelor of Commerce (Information Systems), McMaster University
+- 🎓 Honours Bachelor of Commerce (Information Systems), McMaster University — Expected Apr 2027
 - 📍 Mississauga, Ontario
-- 📊 Interested in Business Intelligence, Business Analysis, Data Analytics, and Information Systems
-- 🌱 Currently expanding my skills in SQL, Power BI, Tableau, and Data Warehousing
-- 💼 Seeking internship and new graduate opportunities in Information Systems and Business Analytics
+- 📊 Interested in Business Analysis, Business Systems, Business Intelligence, Reporting, Data Analytics, and Information Systems
+- 💼 Seeking internship, entry-level, and new graduate opportunities in Information Systems and Business Analytics
 
 ## Technical Skills
 
-### Programming & Query Languages
-- SQL
+### Business Analysis & Systems
+- Requirements Gathering
+- Business & Functional Requirements
+- Process Mapping
+- AS-IS / TO-BE Analysis
+- User Stories
+- Acceptance Criteria
+- User Acceptance Testing (UAT)
+- Requirements Traceability
+- SDLC
+- Agile
+- Jira
+- Confluence
 
-### Data Analytics & Business Intelligence
+### Databases & SQL
+- SQL
+- Microsoft SQL Server (SSMS)
+- Relational Database Design
+- Data Modeling
+- ER Modeling
+- Data Warehousing
+- Dimensional Modeling
+- Star Schema
+
+### Business Intelligence & Analytics
 - Power BI
 - Tableau
-- JMP
 - Microsoft Excel
+- JMP
+- KPI Reporting
+- Dashboard Development
+- Data Visualization
+- Data Analysis
 
-### Database Technologies
-- Microsoft SQL Server (SSMS)
-- Database Design
-- Relational Databases
-- Data Warehousing
-- Star Schema Modeling
-
-### Business Systems
-- Salesforce CRM
-- HubSpot CRM
-- Pipedrive CRM
+### Business Systems & CRM
+- Salesforce
+- HubSpot
+- Pipedrive
+- Lone Wolf
 - DocuSign
-- Lone Wolf Technologies
+- BrokerBay
 
 ### Other Tools
 - Git
@@ -42,22 +60,20 @@ Information Systems student at McMaster University with experience in SQL, Power
 
 ## Featured Projects
 
-### 📦 [Retail Inventory & Sales SQL Database](https://github.com/YOUR_USERNAME/retail-inventory-sales-sql-database)
+### 📋 Retail Inventory Business Systems Analysis
+End-to-end business systems analysis project covering requirements, AS-IS/TO-BE process analysis, Agile user stories, acceptance criteria, UAT, requirements traceability, SQL Server implementation, SDLC, and security/risk analysis.
 
-Relational SQL database supporting inventory management, sales reporting, order processing, and operational reporting.
+### 🛒 Retail Commerce Database Management System
+Relational database project using SQL Server and ERDPlus to demonstrate database design, normalization, referential integrity, and multi-table SQL querying for retail operations.
 
-### 🚗 [Auto Insurance Risk Data Warehouse](https://github.com/YOUR_USERNAME/auto-insurance-risk-data-warehouse)
+### 📈 COVID-19 Global Analytics Dashboard
+Tableau dashboard project analyzing global COVID-19 trends through geographic mapping, country comparisons, and time-series visualizations.
 
-Dimensional data warehouse designed using star schema modeling for insurance risk analysis and business intelligence reporting.
-
-### 📈 [COVID-19 Global Analytics Dashboard](https://github.com/YOUR_USERNAME/covid-19-global-analytics-dashboard)
-
-Interactive Tableau dashboards visualizing global COVID-19 trends, KPIs, and geographic analysis.
-
-### 🧠 [Consumer Behavior Predictive Analytics](https://github.com/YOUR_USERNAME/consumer-behavior-predictive-analytics)
-
-Predictive analytics project using JMP featuring regression analysis, decision trees, K-Means clustering, and customer segmentation.
+### 🚗 Auto Insurance Risk Data Warehouse
+Dimensional data warehouse design project using star schema modeling, fact and dimension tables, and analytical use cases for auto insurance risk analysis.
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/muaaz-warraich
+- GitHub: https://github.com/muaazw7
+- Email: muaazw7@gmail.com
