@@ -60,16 +60,16 @@ Information Systems student at McMaster University with experience in business a
 
 ## Featured Projects
 
-### 📋 Retail Inventory Business Systems Analysis
+### 📋 [Retail Inventory Business Systems Analysis](https://github.com/muaazw7/retail-inventory-business-systems-analysis)
 End-to-end business systems analysis project covering requirements, AS-IS/TO-BE process analysis, Agile user stories, acceptance criteria, UAT, requirements traceability, SQL Server implementation, SDLC, and security/risk analysis.
 
-### 🛒 Retail Commerce Database Management System
+### 🛒 [Retail Commerce Database Management System](https://github.com/muaazw7/retail-commerce-database-system)
 Relational database project using SQL Server and ERDPlus to demonstrate database design, normalization, referential integrity, and multi-table SQL querying for retail operations.
 
-### 📈 COVID-19 Global Analytics Dashboard
+### 📈 [COVID-19 Global Analytics Dashboard](https://github.com/muaazw7/covid-19-global-analytics-dashboard)
 Tableau dashboard project analyzing global COVID-19 trends through geographic mapping, country comparisons, and time-series visualizations.
 
-### 🚗 Auto Insurance Risk Data Warehouse
+### 🚗 [Auto Insurance Risk Data Warehouse](https://github.com/muaazw7/auto-insurance-risk-data-warehouse)
 Dimensional data warehouse design project using star schema modeling, fact and dimension tables, and analytical use cases for auto insurance risk analysis.
 
 ## Connect With Me
